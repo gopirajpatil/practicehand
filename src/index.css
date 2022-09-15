@@ -5,9 +5,33 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: aquamarine;
+  background-image: url("Ativ.jpg");
+  background-size: auto;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+   
+}
+.sm-icons {
+  margin-right: 5px;
+  flex-direction:row;
+  padding-right: 20px;
+  color: white;
+
+}
+Form {
+  color:goldenrod;
+};
+
+Accordion{
+  color: red;
+  background-image: url("Ativ.jpg")no-repeat fixed center;
+}
+
+
+Form.ex1 {
+  margin-bottom: 20px;
 }
